@@ -15,6 +15,8 @@ O aplicativo se integra diretamente com a [API Back-End do Arte Del Gusto](https
 ## 🌐 Aplicativo em funcionamento
 - Demonstração da aplicação sendo executada em um simulador junto ao front-end:
 
+https://github.com/user-attachments/assets/9217a5cd-0670-4dba-80f3-d3484e77fa0b
+
 <img src="./assets/images/arte-del-gusto.gif" alt="GIF mostrando o funcionamento do app e front-end">
 
 ---
